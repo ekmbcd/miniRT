@@ -1,5 +1,10 @@
 # miniRT Resources
 
+- MiniLibX documentation
+
+https://harm-smits.github.io/42docs/libs/minilibx
+
+
 - Understanding the different rendering methods
 
 https://www.youtube.com/watch?v=LAsnQoBUG4Q
